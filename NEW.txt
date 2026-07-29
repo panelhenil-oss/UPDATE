@@ -1,0 +1,5 @@
+NO KEY SCRIPT
+loadstring(game:HttpGet("https://www.luxyhub.space/api/loader/luxyhub"))()
+
+KEY SCRIPT
+loadstring(game:HttpGet("https://voidon.top/api/loader/main"))()
